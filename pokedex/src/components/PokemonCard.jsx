@@ -8,6 +8,7 @@ function PokemonCard() {
     );    
 }
 
+
 const pokemonList = [
   {
     name: "bulbasaur",
